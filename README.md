@@ -12,8 +12,8 @@ To handle the class imbalance, the following resampling techniques were employed
  
 Several machine learning models were trained and evaluated:
 
--Logistic Regression
--XGBoost Classifier
--Random Forest Classifier
--Gradient Boosting Classifier
+- Logistic Regression
+- XGBoost Classifier
+- Random Forest Classifier
+- Gradient Boosting Classifier
 A custom pipeline was built to preprocess the data, apply the resampling techniques, and evaluate the models on various metrics.
